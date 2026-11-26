@@ -1,0 +1,10 @@
+{
+  "id": "typora-flow",
+  "name": "Better Line Breaks",
+  "version": "1.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "Typora-like line breaking for Obsidian: Enter starts a new paragraph, Shift+Enter inserts a soft break, Backspace at a paragraph start steps back cleanly, and pasted plain text is split into paragraphs. Typora 式换行体验。",
+  "author": "qian",
+  "authorUrl": "https://github.com/qianhanglv",
+  "isDesktopOnly": true
+}
